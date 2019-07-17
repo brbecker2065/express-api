@@ -1,0 +1,28 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "get data from api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brbecker2065/express-api.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brbecker2065/express-api/issues"
+  },
+  "homepage": "https://github.com/brbecker2065/express-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0"
+  },
+  "devDependencies": {}
+}
