@@ -1,0 +1,68 @@
+{
+    "models": [
+        {
+            "id": 1,
+            "name": "Honda"
+        },
+        {
+            "id": 2,
+            "name": "Toyota"
+        },
+        {
+            "id": 3,
+            "name": "Audi"
+        }
+    ],
+    "cars": [
+        {
+            "id": 1,
+            "name": "Accord",
+            "modelId": 1
+        },
+        {
+            "id": 2,
+            "name": "A6",
+            "modelId": 3
+        },
+        {
+            "id": 3,
+            "name": "Camry",
+            "modelId": 2
+        },
+        {
+            "id": 4,
+            "name": "S3",
+            "modelId": 3
+        },
+        {
+            "id": 5,
+            "name": "Passport",
+            "modelId": 1
+        },
+        {
+            "id": 6,
+            "name": "Tundra",
+            "modelId": 2
+        },
+        {
+            "id": 7,
+            "name": "4Runner",
+            "modelId": 2
+        },
+        {
+            "id": 8,
+            "name": "Civic",
+            "modelId": 1
+        },
+        {
+            "id": 9,
+            "name": "Q7",
+            "modelId": 3
+        },
+        {
+            "id": 10,
+            "name": "Prius",
+            "modelId": 2
+        }
+    ]
+}

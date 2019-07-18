@@ -4,7 +4,8 @@
   "description": "get data from api",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "nodemon --exec "
   },
   "repository": {
     "type": "git",
@@ -23,7 +24,8 @@
   "dependencies": {
     "babel": "^6.23.0",
     "express": "^4.17.1",
-    "gitignore": "^0.6.0"
+    "gitignore": "^0.6.0",
+    "nodemon": "^1.19.1"
   },
   "devDependencies": {}
 }
